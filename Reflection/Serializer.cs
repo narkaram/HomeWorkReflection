@@ -91,17 +91,20 @@ namespace Reflection
                 else
                 {
                     var nameInd = names.FindIndex(item => item == field.Name);
-                    string value = values[nameInd];
-                    var fieldName = obj.GetType().GetField(field.Name, bindingAttr: BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
-                    if (field.FieldType.Name == "Object")
+                    if (nameInd != -1)
                     {
-                        var val_type = value.Split(':');
-                        SetValue(field, val_type[0], obj, val_type[1]); 
+                        string value = values[nameInd];
+                        var fieldName = obj.GetType().GetField(field.Name, bindingAttr: BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                        if (field.FieldType.Name == "Object")
+                        {
+                            var val_type = value.Split(':');
+                            SetValue(field, val_type[0], obj, val_type[1]);
 
+                        }
+                        else SetValue(field, field.FieldType.Name, obj, value);
+                        names.RemoveAt(nameInd);
+                        values.RemoveAt(nameInd);
                     }
-                    else SetValue(field, field.FieldType.Name, obj, value);
-                    names.RemoveAt(nameInd);
-                    values.RemoveAt(nameInd);
                 }
             }
         }
@@ -160,33 +163,6 @@ namespace Reflection
                     break;
             }
         }
-
-        //public static object setValues(FieldInfo[] fields, string csv)
-        //{
-
-        //    string result = "";
-        //    var values = csv.Split('\n')[0].Split(CsvSeparator);
-        //    var res = getNames(fields).Split(CsvSeparator);
-
-        //    for (int i = 0; i < names.Length; i++)
-        //    {
-        //        object value = values[i];
-        //        string name = names[i];
-        //    }
-
-        //    foreach (FieldInfo field in fields)
-        //    {
-        //        if (field.FieldType.Namespace != "System")
-        //            return result += getValues(field.FieldType.GetFields(bindingAttr: BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic), field.GetValue(obj));
-        //        else
-        //        {
-        //            if (field.FieldType.Name == "Object")
-        //                result += field.GetValue(obj).GetType() + ":";
-        //            obj.GetType().GetProperty(field.Name).SetValue(); 
-        //        }
-        //    }
-        //    return result.TrimEnd(CsvSeparator);
-        //}
     }
     public class TestClass
     {
@@ -214,14 +190,4 @@ namespace Reflection
             tc = new TestClass();
         }
     }
-
-    /* TestClass 
-    a;b;str;obj
-    10;11;test;(float)12.1;
-     */
-
-    /* TestClass2
-   a;a-tc;b-tc;str-tc;obj-tc
-   30;10;11;test;(float)12.1
-    */
 }
