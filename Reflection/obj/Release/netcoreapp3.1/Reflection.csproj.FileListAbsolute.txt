@@ -1,0 +1,12 @@
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.exe
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.deps.json
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.runtimeconfig.json
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.dll
+C:\code\otus\10. Reflection\Reflection\Reflection\bin\Release\netcoreapp3.1\Reflection.pdb
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.AssemblyInfo.cs
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.dll
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.pdb
+C:\code\otus\10. Reflection\Reflection\Reflection\obj\Release\netcoreapp3.1\Reflection.genruntimeconfig.cache

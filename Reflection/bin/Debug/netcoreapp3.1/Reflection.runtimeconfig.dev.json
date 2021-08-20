@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\valya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\valya\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.deps.json
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.dll
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Release\netcoreapp3.1\MyLibrary.pdb
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.csproj.AssemblyReference.cache
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.dll
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Release\netcoreapp3.1\MyLibrary.pdb

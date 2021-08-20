@@ -1,0 +1,26 @@
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csprojAssemblyReference.cache
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\andrei.ivanov\Desktop\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Stanislav\Downloads\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\code\otus\10. Reflection\Reflection\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\code\otus\10. Reflection\Reflection\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.AssemblyReference.cache
